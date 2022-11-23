@@ -78,14 +78,14 @@ sleep 1
 #Install SSH-VPN
 echo -e "\e[0;32mINSTALLING SSH-VPN...\e[0m"
 sleep 1
-wget https://raw.githubusercontent.com/razerhunters/Persinggahan-V3/main/INSTALL/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/V3SAKURAAIIRIV3/Persinggahan-V3/main/INSTALL/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 echo -e "\e[0;32mDONE INSTALLING SSH-VPN\e[0m"
 echo -e ""
 sleep 1
 #Install Xray
 echo -e "\e[0;32mINSTALLING XRAY CORE...\e[0m"
 sleep 1
-wget https://raw.githubusercontent.com/razerhunters/Persinggahan-V3/main/INSTALL/ins-xray.sh && chmod +x ins-xray.sh && screen -S ins-xray ./ins-xray.sh
+wget https://raw.githubusercontent.com/V3SAKURAAIIRIV3/Persinggahan-V3/main/INSTALL/ins-xray.sh && chmod +x ins-xray.sh && screen -S ins-xray ./ins-xray.sh
 echo -e "\e[0;32mDONE INSTALLING XRAY CORE\e[0m"
 echo -e ""
 sleep 1
@@ -93,7 +93,7 @@ clear
 #Install SET-BR
 echo -e "\e[0;32mINSTALLING SET-BR...\e[0m"
 sleep 1
-wget https://raw.githubusercontent.com/razerhunters/Persinggahan-V3/main/INSTALL/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+wget https://raw.githubusercontent.com/V3SAKURAAIIRIV3/Persinggahan-V3/main/INSTALL/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 echo -e "\e[0;32mDONE INSTALLING SET-BR...\e[0m"
 echo -e ""
 sleep 1
