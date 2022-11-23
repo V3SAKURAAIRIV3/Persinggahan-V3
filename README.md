@@ -2,7 +2,7 @@
 
 License Key : SakuraV3
 
-Debian 10 Sahaja <br>
+Debian 10 <br>
  
   ```html
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
