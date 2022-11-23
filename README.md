@@ -13,7 +13,7 @@ Masukan Nama Kamu Bebas : Pakai Di Bawah Juga Boleh Kikiki<br>
 SakuraV3
   ```
   
-Masukan Domain kamu yang sudah di Pointing dengan IP kamu di Cloudflare dll.:<br>
+Masukan Domain kamu yang sudah di Pointing dengan IP kamu di Cloudflare dll :<br>
   ```html
 SakuraV3.com.my
   ```
