@@ -7,6 +7,16 @@ License Key :<br>
   ```html
 SakuraV3
   ```
+
+Name Your :CONTOH<br>
+  ```html
+SakuraV3
+  ```
+  
+Domain Kamu : CONTOH<br>
+  ```html
+SakuraV3.com.my
+  ```
   
 Install Full<br>
   ```html
