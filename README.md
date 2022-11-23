@@ -22,5 +22,4 @@ Masukan Domain kamu yang sudah di Pointing dengan IP kamu di Cloudflare dll :<br
   ```html
 SakuraV3.com.my
   ```
-  
 
