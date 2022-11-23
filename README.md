@@ -8,12 +8,12 @@ License Key :<br>
 SakuraV3
   ```
 
-Name Your :CONTOH<br>
+Masukan Nama Kamu Bebas : Pakai Di Bawah Juga Boleh Kikiki<br>
   ```html
 SakuraV3
   ```
   
-Domain Kamu : CONTOH<br>
+Masukan Domain kamu yang sudah di Pointing dengan IP kamu di Cloudflare dll.:<br>
   ```html
 SakuraV3.com.my
   ```
