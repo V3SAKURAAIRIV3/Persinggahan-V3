@@ -8,7 +8,7 @@ License Key :<br>
 SakuraV3
   ```
 
-Masukan Nama Kamu Bebas : Pakai Di Bawah Juga Boleh Kikiki<br>
+Masukan nama kamu bebas : Pakai di bawah juga boleh Kikiki<br>
   ```html
 SakuraV3
   ```
