@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.comV3SAKURAAIRIV3/Persinggahan-V3/main/MENU.jpg" width="280" height="400"></p>
+
 Debian 10:
 
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
