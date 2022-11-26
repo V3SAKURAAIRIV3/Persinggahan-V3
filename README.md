@@ -16,6 +16,13 @@ Debian 10 : <br>
   ```html
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
+
+Ubuntu 20.04 :  <br>
+
+  ```html
+apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
+  ```
+
 Install Full : <br>
 
   ```html
